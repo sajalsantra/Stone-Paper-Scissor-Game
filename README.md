@@ -1,7 +1,11 @@
 <h1 align="center">
-    <img src="logo_icon.jpg" width="120">
+  <p align="center">
+    <img height=100px src="./src/img/stone.png" >         
+    <img height=100px src="./src/img/paper.png" > 
+    <img height=100px src="./src/img/scissors.png" >
+  </p>
     <br>
-    <b>Guess The Number</b>
+    <b> Stone Paper Scissor Game</b>
     <br>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square">
