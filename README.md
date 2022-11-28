@@ -26,21 +26,10 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 
 ## **Instruction of the Game** 📚
 1. Run the Code.
-2. Guess a Number by typing in the text field and click enter
-3. When you guess incorrectly, the status will change that help you figure out the number
-4. Upon guessing the correct number, the question mark is replace with a correct number
+2. Chose your turn
+4.Next Saw you result(win/Loss) & also coupter choice 
 5. You can continue the game repeatedly
 
-## **Download Source Code** 📥
-<div >
-    <a  target="_blank" href="https://ftlb.herokuapp.com/wpVvbWnCn2k=">
-        <img src="https://img.shields.io/badge/Source%20Code-.java%20-Orange?style=flat-square" size="20px">
-    </a>
-    <a  target="_blank" href="https://ftlb.herokuapp.com/wpVvbWrCl2M=">
-        <img src="https://img.shields.io/badge/Source%20Code-.class%20-Orange?style=flat-square" size="20px">
-    </a>
-</div>
-<br>
 
 ## **Contribution** 🔥
 If you wish to help improve this project, fork this repo and submit your own pull request. If you discover a problem with this project, please report it to the issue page. Thank you very much   😊.
