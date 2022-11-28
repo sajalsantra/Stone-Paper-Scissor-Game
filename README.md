@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">
-    <img height=100px src="./src/img/stone.png" >         
+    <img height=100px src="https://raw.githubusercontent.com/realtimemovie/Stone-Paper-Scissors/master/src/img/paper.png" >         
     <img height=100px src="./src/img/paper.png" > 
     <img height=100px src="./src/img/scissors.png" >
   </p>
